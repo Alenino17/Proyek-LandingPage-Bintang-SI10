@@ -1,2 +1,2 @@
-# Proyek-LandingPage-Bintang-SI10
+# Project-LandingPage-Bintang-SI10
 TUGAS LANDING PAGE-SWIMING POOL
